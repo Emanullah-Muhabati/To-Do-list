@@ -3,6 +3,8 @@
 A simple and responsive **To-Do List application** built with modern front-end technologies.  
 This project demonstrates clean UI design, task management functionality, and best practices in web development.
 
+![to-do-list image]('./to do.png')
+
 ---
 
 ## 🚀 Features
@@ -20,3 +22,6 @@ This project demonstrates clean UI design, task management functionality, and be
 - **Git & GitHub** – version control and collaboration
 
 ---
+
+
+Credite by: **Emanullah Muhabati**
